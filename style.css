@@ -12,7 +12,7 @@ body {
 }
 
 .main {
-    background-image: url("assets/img/bg1.jpg");
+    background-image: url("bg1.jpg");
     height: 40rem !important;
     position: relative;
     background-size: 100vw;
