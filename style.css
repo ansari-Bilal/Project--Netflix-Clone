@@ -409,12 +409,15 @@ footer {
         flex-wrap: wrap;
      
     }
-    .first second{
+
+    #second-sec{
         flex-direction: column-reverse;
     }
-    .first fourth{
+
+    #fourth-sec{
         flex-direction: column-reverse;
     }
+    
     section.first>div {
         text-align: center;
     }
