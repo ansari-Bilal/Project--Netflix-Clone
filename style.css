@@ -417,7 +417,7 @@ footer {
     #fourth-sec{
         flex-direction: column-reverse;
     }
-    
+
     section.first>div {
         text-align: center;
     }
@@ -446,9 +446,9 @@ footer {
         font-size: 1.2rem;
         font-weight: 100;
     }
-    #Girl-text{
+    /* #Girl-text{
         margin-top: 2rem;
-    }
+    } */
     .faq h1 {
         text-align: center;
         font-size: 2rem;
