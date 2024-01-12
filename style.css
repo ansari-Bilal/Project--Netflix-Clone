@@ -229,7 +229,7 @@ overflow: clip;
     flex-shrink: 0;
     height: 5rem;
     width: 3rem;
-    background:url(assets/img/boxshot.png);
+    background:url(boxshot.png);
     display: block;
     background-size: 100%;
 }
@@ -263,7 +263,7 @@ overflow: clip;
 .part3{
     width: 3rem;
     height: 3.75rem;
-    background: url(assets/img/download-icon.gif);
+    background: url(download-icon.gif);
     display: block;
     background-size: 100%;
     flex-grow: 0;
